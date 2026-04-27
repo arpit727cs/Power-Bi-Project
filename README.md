@@ -13,7 +13,8 @@ These dashboards are designed to transform raw data into meaningful insights for
 - Profit & Loss analysis
 - Revenue vs Expenses tracking
 - Financial performance insights
-<img width="1391" height="757" alt="Screenshot 2026-04-27 122824" src="https://github.com/user-attachments/assets/81923ae3-999f-4a6f-a047-c133515bd34b" />
+<img width="1370" height="755" alt="Screenshot 2026-04-27 122425" src="https://github.com/user-attachments/assets/cbf71f5c-dc6f-4421-8e97-812418efcf7a" />
+
 
 
 
