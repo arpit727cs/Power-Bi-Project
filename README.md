@@ -13,16 +13,22 @@ These dashboards are designed to transform raw data into meaningful insights for
 - Profit & Loss analysis
 - Revenue vs Expenses tracking
 - Financial performance insights
+<img width="1391" height="757" alt="Screenshot 2026-04-27 122824" src="https://github.com/user-attachments/assets/81923ae3-999f-4a6f-a047-c133515bd34b" />
+
+
 
 ### 2. Onix Project Dashboard
 - Project performance tracking
 - KPI monitoring
 - Operational insights
+- <img width="1391" height="757" alt="Screenshot 2026-04-27 122824" src="https://github.com/user-attachments/assets/e374c666-9011-42f6-b341-5876f195c81d" />
+
 
 ### 3. Solar Sales Dashboard
 - Sales trend analysis
 - Region-wise performance
 - Product-wise insights
+<img width="1350" height="735" alt="Screenshot 2026-04-27 121517" src="https://github.com/user-attachments/assets/045fd5b6-fde5-42cc-bab9-0f8f4b7dbcf4" />
 
 ---
 ## 🛠️ Tools & Technologies
